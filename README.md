@@ -3,7 +3,7 @@
 </br>
 ## 1. Team Members
 [김가윤](https://github.com/gayoooon1) - 중앙대학교 사회학과   
-[서희재](https://github.com/linkyouhj) - 중앙대학교 컴퓨터공학과
+[서희재](https://github.com/linkyouhj) - 중앙대학교 컴퓨터공학과 
 [최윤한](https://github.com/unanchoi) - 중앙대학교 수학과      
 
 </br>
