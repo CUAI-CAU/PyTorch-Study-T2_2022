@@ -16,7 +16,7 @@
 | 2022-03-24  | 2 |  [PART 2: Neural Network](https://www.boostcourse.org/ai214/lecture/43757?isDesc=false)</br> [Project A. Fashion MNIST Classifier](https://www.boostcourse.org/ai214/project/148/content/122?isDesc=false#summary)  |김가윤 | 
 | 2022-03-31  | 3 |  [PART 3: Convolutional Neural Network](https://www.boostcourse.org/ai214/joinLectures/24017?isDesc=false)</br>[Project B. Cat-Dog Classifier](https://www.boostcourse.org/ai214/joinLectures/24381?isDesc=false)  | 서희재| 
 | 2022-04-07  | 4 | [PART 4: Recurrent Neural Network](https://www.boostcourse.org/ai214/joinLectures/24018?isDesc=false)</br>[Project C. Neural Weather Forecaster](https://www.boostcourse.org/ai214/project/178/content/138?isDesc=false#summary)  | 최윤한| 
-| 2022-05-05  | 5 |    | 김가윤| 
+| 2022-05-01  | 5 | [뉴스 그룹 분류 경진대회](https://dacon.io/competitions/official/235884/overview/description)   | 김가윤| 
 | 2022-05-12  | 6 |   | 서희재| 
 | 2022-05-19  | 7 |   | 최윤한| 
 | 2022-05-26  | 8 |   | 김가윤| 
