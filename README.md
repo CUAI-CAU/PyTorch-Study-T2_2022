@@ -17,10 +17,10 @@
 | 2022-03-31  | 3 |  [PART 3: Convolutional Neural Network](https://www.boostcourse.org/ai214/joinLectures/24017?isDesc=false)</br>[Project B. Cat-Dog Classifier](https://www.boostcourse.org/ai214/joinLectures/24381?isDesc=false)  | 서희재| 
 | 2022-04-07  | 4 | [PART 4: Recurrent Neural Network](https://www.boostcourse.org/ai214/joinLectures/24018?isDesc=false)</br>[Project C. Neural Weather Forecaster](https://www.boostcourse.org/ai214/project/178/content/138?isDesc=false#summary)  | 최윤한| 
 | 2022-05-01  | 5 | [뉴스 그룹 분류 경진대회](https://dacon.io/competitions/official/235884/overview/description)   | 김가윤| 
-| 2022-05-12  | 6 |   | 서희재| 
-| 2022-05-19  | 7 |   | 최윤한| 
-| 2022-05-26  | 8 |   | 김가윤| 
-| 2022-06-02  | 9 |    | 서희재|  
+| 2022-05-12  | 6 | 네이버 영화 리뷰 감성분류1  | 서희재| 
+| 2022-05-19  | 7 | 네이버 영화 리뷰 감성분류2 | 최윤한| 
+| 2022-05-26  | 8 | [NLP Tutorial](https://github.com/graykode/nlp-tutorial)  | 김가윤| 
+| 2022-06-02  | 9 |   [NLP Tutorial](https://github.com/graykode/nlp-tutorial)  | 서희재|  
 </br>
 
 
